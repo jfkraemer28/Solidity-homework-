@@ -5,7 +5,7 @@ John-Francis Kraemer
 ## Contract 1
 The solidity smart contract for AssociateProfitSplitter.sol will allow the deposit of 10 ETH to each of the 3 employeees and will sweep any remaining amounts back to the withdrawing account.
 
-![Remix Screen Shot 1](Images/Remix1.png)
+![Remix Screen Shot 1](images/remix1.png)
 
 
 The smart contract amount in addresses that represent employee_one, employee_two, and employee_three for AssociateProfitSplitter.sol before the smart contract is activated.  The address ending in ...67eBa serves as the withdrawing account with the subsequent 3 address presenting the depositing accounts of the 3 employees.  All 4 addresses have a starting balance of 100 ETH
